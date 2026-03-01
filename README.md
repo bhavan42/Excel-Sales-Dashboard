@@ -1,5 +1,9 @@
 # Excel Sales Analysis Dashboard
 
+## Dashboard Preview
+
+![Dashboard Preview](West.png)
+
 This is my first interactive dashboard built using Microsoft Excel.
 
 ## Dataset
